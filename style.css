@@ -1,0 +1,20 @@
+.no1 {
+    color: blueviolet;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.no2{
+    color: chartreuse;
+    font-size: 72px;
+    background-color: blueviolet;
+}
+
+.no3{
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 48px;
+    background-color: wheat;
+}
+body{background-image user-select: C:\Users\RadinCo\Desktop\ex\gitConfig.PNG;}
